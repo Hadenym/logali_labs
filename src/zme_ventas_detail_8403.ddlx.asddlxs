@@ -1,0 +1,10 @@
+@Metadata.layer: #CORE
+annotate entity Z_B_VENTAS_DET_8403
+    with 
+{   
+    @UI.lineItem: [{ position: 10, importance: #HIGH }]    
+    IdCliente;
+    @UI.lineItem: [{ position: 20, importance: #LOW }]
+    IdLibro;
+ 
+}
