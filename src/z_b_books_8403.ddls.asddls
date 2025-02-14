@@ -5,6 +5,7 @@
 @EndUserText.label: 'Libros'
 @Metadata.ignorePropagatedAnnotations: true
 @Metadata.allowExtensions: true
+//Prueba de GitHub
 define view z_b_books_8403
   as select from ztb_libros_8403
 {
